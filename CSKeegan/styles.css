@@ -1,0 +1,16 @@
+h1{
+  font-size:28;
+  color:pink;
+}
+h2{
+font-size: 2
+  color:lime;
+}
+p{
+  color: yellow;
+}
+
+body{
+  background-color: blue;
+  color: rgb(0, 204, 255);
+}
