@@ -4,13 +4,13 @@ h1{
 }
 h2{
 font-size: 2
-  color:lime;
+  color:purple;
 }
 p{
   color: yellow;
 }
 
 body{
-  background-color: blue;
+  background-color: purple;
   color: rgb(0, 204, 255);
 }
